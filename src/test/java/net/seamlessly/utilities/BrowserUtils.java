@@ -1,4 +1,4 @@
-package com.cydeo.utilities;
+package net.seamlessly.utilities;
 
 import org.junit.Assert;
 import org.openqa.selenium.*;
